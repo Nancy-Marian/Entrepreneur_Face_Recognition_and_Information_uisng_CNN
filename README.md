@@ -1,1 +1,2 @@
 # Entrepreneur_Face_Recognition_and_Information_uisng_CNN
+is a project that harnesses the power of Convolutional Neural Networks (CNN) for real-time face recognition and information retrieval. This versatile and user-friendly system is ideal for various applications, including entrepreneurship events, networking, and personalization. Join us in the open-source community to explore and contribute to this exciting project.
